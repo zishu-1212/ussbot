@@ -20,7 +20,7 @@ function Nav() {
             <img src={logo} alt="Logo" width={70} className='m-auto' />
           </div>
           <div className='fw-bold' style={{ fontSize: "17px",color:"#00b9cb" }}>
-            Welcome to USS Bot User Panel
+           USS Bot User Panel
           </div> 
           <div className='fw-bold' style={{ fontSize: "13px" ,color:"#00b9cb" }}>
             <span style={{ fontSize: "18px" }}>
